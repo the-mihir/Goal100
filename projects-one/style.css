@@ -1,0 +1,17 @@
+
+button{
+    margin-top: 25%;
+}
+
+.daynamicCode{
+    padding-top: 15px;
+    font-size: 20px;
+    
+}
+
+#ccolorCode{
+    background-color:#fff; 
+    padding:2px; 
+    border-radius: 3px;
+    cursor: pointer;
+}
